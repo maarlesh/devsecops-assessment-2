@@ -1,4 +1,3 @@
 # devops-automation
 added build workflow
-added owasp dependancy checker
-added sonarCloud scan
+added owasp dependancy checker, findsec bugs
